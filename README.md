@@ -81,9 +81,21 @@ Construction AI · Smart Energy Optimisation · Full-Stack Product Engineering
 ---
 
 
-### GitHub Activity
+### GitHub Stats
 
-[![Ryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WangZhen-Ryan&theme=dracula&custom_title=Ryan%20Wang's%20Contribution%20Graph)](https://github.com/WangZhen-Ryan)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WangZhen-Ryan&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WangZhen-Ryan&theme=tokyonight&hide_border=true" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake-dark.svg">

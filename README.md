@@ -75,3 +75,17 @@
 ```text
 AI Infrastructure · Local LLM Deployment · Computer Vision · 3D Reconstruction
 Construction AI · Smart Energy Optimisation · Full-Stack Product Engineering
+
+
+
+---
+
+### GitHub Activity
+
+[![Ryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WangZhen-Ryan&theme=dracula&custom_title=Ryan%20Wang's%20Contribution%20Graph)](https://github.com/WangZhen-Ryan)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/WangZhen-Ryan/WangZhen-Ryan/output/github-snake.svg">
+</picture>

@@ -75,7 +75,7 @@
 ```text
 AI Infrastructure · Local LLM Deployment · Computer Vision · 3D Reconstruction
 Construction AI · Smart Energy Optimisation · Full-Stack Product Engineering
-
+```
 
 
 ---

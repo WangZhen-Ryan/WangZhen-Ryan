@@ -80,6 +80,7 @@ Construction AI · Smart Energy Optimisation · Full-Stack Product Engineering
 
 ---
 
+
 ### GitHub Activity
 
 [![Ryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WangZhen-Ryan&theme=dracula&custom_title=Ryan%20Wang's%20Contribution%20Graph)](https://github.com/WangZhen-Ryan)

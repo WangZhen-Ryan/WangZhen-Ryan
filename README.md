@@ -19,7 +19,7 @@
 
 - 🔭 Working on **AI products, developer tools, and applied machine learning systems**
 - 🧠 Interested in **AI infrastructure, computer vision, 3D reconstruction, local LLM deployment, and full-stack engineering**
-- 🏗️ Building **HomeNet / Construction AI** for quote standardisation, compliance tracking, and project supervision
+- 🏗️ Building **Homenet / Construction AI** for quote standardisation, compliance tracking, and project supervision
 - ⚡ Exploring **smart electricity optimisation** with real-time pricing, battery control, and local automation
 - 📫 Reach me at **wangzhen_ryan@icloud.com**
 
